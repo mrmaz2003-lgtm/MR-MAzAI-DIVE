@@ -1,0 +1,2 @@
+# AI DIVE backend runtime uses the Python 3.11+ standard library only.
+# No third-party Python runtime dependencies are required for the MVP.
